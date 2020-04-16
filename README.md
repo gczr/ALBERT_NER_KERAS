@@ -8,7 +8,11 @@ pip install git+https://www.github.com/keras-team/keras-contrib.git
 
 ### 说明
 config.json：配置文件
+
 MAX_SEQ_LEN：为albert的最大输入序列长度
+
 tags：实体标注符号，最好从1开始，不要从0开始编码。
+
 albert_model_train：模型训练脚本
+
 albert_model_prdict：模型预测脚本
